@@ -1,2 +1,0 @@
-# ExoOpen
-Activité OpenClassrooms
